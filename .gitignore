@@ -1,0 +1,8 @@
+ffprobe.exe
+discord-clip-site-61d86356f434.json
+ffmpeg.exe
+__pycache__/
+.env
+env/
+messages/
+thumb/
