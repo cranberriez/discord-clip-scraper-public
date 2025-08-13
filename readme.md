@@ -1,6 +1,8 @@
+### Updates probably won't be coming
+
 # Discord Clip Scraper
 
-A robust, multi-threaded Python application for scraping and archiving all uploaded `.mp4` videos from specific Discord channels. Expired links are automatically reacquired and updated. The project uses Google Cloud Storage for persistence and supports thumbnail generation for video attachments.
+A multi-threaded Python application for scraping and archiving all uploaded `.mp4` videos from specific Discord channels. Expired links are automatically reacquired and updated. The project uses Google Cloud Storage for persistence and supports thumbnail generation for video attachments.
 
 ---
 
